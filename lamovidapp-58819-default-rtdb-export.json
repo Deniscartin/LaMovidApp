@@ -1,0 +1,129 @@
+{
+  "ListaPrenotata": {
+    "0b24101b-faba-49fe-8187-6a010b3f8f01": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "men",
+      "name": "Denis",
+      "numberOfPeople": "5",
+      "phone": "3885655449"
+    },
+    "3e287c64-5194-4487-9705-61a1544d9279": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "men",
+      "name": "Denis",
+      "numberOfPeople": "4",
+      "phone": "3885655449"
+    },
+    "9e01988c-7627-420a-b59b-4a62caea1152": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "men",
+      "name": "Denis",
+      "numberOfPeople": "3",
+      "phone": "3885655449"
+    },
+    "a24fea25-c468-4ecb-8eb3-0cb10f58748b": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "men",
+      "name": "Denis",
+      "numberOfPeople": "3",
+      "phone": "3885655449"
+    },
+    "c0b0df44-096b-4d5f-9e68-476e624d02e5": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "women",
+      "name": "Denis",
+      "numberOfPeople": "2",
+      "phone": "3885655449"
+    },
+    "db973288-51ad-4158-ae2c-8850d70e56e4": {
+      "email": "cartin.denis@gmail.com",
+      "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "gender": "men",
+      "name": "Denis",
+      "numberOfPeople": "3",
+      "phone": "3885655449"
+    }
+  },
+  "events": {
+    "664ec62c-4669-4179-a76b-49bc2bba23ef": {
+      "address": "Via Nice",
+      "date": "2024-06-28",
+      "dressCode": "curato",
+      "id": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+      "minAge": "21",
+      "musicGenre": "EDM",
+      "prices": {
+        "men": {
+          "drinkOption": "withoutDrink",
+          "entryUntil": "01:01",
+          "price": "15",
+          "withDrink": ""
+        },
+        "women": {
+          "drinkOption": "withDrink",
+          "entryUntil": "01:00",
+          "price": "10",
+          "withDrink": ""
+        }
+      },
+      "venueName": "Nice Club"
+    }
+  },
+  "users": {
+    "NXtTOhckybUBMduMkVY2dVrQrzs2": {
+      "bookedEvents": {
+        "0b24101b-faba-49fe-8187-6a010b3f8f01": {
+          "email": "cartin.denis@gmail.com",
+          "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+          "gender": "men",
+          "name": "Denis",
+          "numberOfPeople": "5",
+          "phone": "3885655449"
+        },
+        "3e287c64-5194-4487-9705-61a1544d9279": {
+          "email": "cartin.denis@gmail.com",
+          "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+          "gender": "men",
+          "name": "Denis",
+          "numberOfPeople": "4",
+          "phone": "3885655449"
+        },
+        "9e01988c-7627-420a-b59b-4a62caea1152": {
+          "email": "cartin.denis@gmail.com",
+          "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+          "gender": "men",
+          "name": "Denis",
+          "numberOfPeople": "3",
+          "phone": "3885655449"
+        },
+        "c0b0df44-096b-4d5f-9e68-476e624d02e5": {
+          "email": "cartin.denis@gmail.com",
+          "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+          "gender": "women",
+          "name": "Denis",
+          "numberOfPeople": "2",
+          "phone": "3885655449",
+          "price": "15",
+          "venueName": "Nice Club"
+        },
+        "db973288-51ad-4158-ae2c-8850d70e56e4": {
+          "email": "cartin.denis@gmail.com",
+          "eventId": "664ec62c-4669-4179-a76b-49bc2bba23ef",
+          "gender": "men",
+          "name": "Denis",
+          "numberOfPeople": "3",
+          "phone": "3885655449"
+        }
+      },
+      "email": "cartin.denis@gmail.com",
+      "firstName": "Denis",
+      "lastName": "Cartin",
+      "phoneNumber": "3885655449"
+    }
+  }
+}
